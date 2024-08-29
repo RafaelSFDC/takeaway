@@ -1,6 +1,7 @@
-import Link from "next/link";
+"use client";
 import NavBarLinks from "./NavbarLinks";
-import Cart from "@/components/Cart";
+import Cart from "@/components/cart/Cart";
+import Cart2 from "@/components/cart/Cart2";
 import { GiFoodTruck } from "react-icons/gi";
 
 export default function Header() {
@@ -12,10 +13,11 @@ export default function Header() {
           <NavBarLinks href="/" label="Home" />
           <NavBarLinks href="/order" label="Order" />
           <NavBarLinks href="/about" label="About" />
-          <NavBarLinks href="/about" label="FAQ" />
+          <NavBarLinks href="/faq" label="FAQ" />
           <NavBarLinks href="/contact" label="Contact" />
         </ul>
         <Cart />
+        <Cart2 />
       </div>
     </div>
   );
