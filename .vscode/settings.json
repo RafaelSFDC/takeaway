@@ -1,0 +1,8 @@
+{
+  "conventionalCommits.scopes": [
+    "Dependencies",
+    "Assets",
+    "State Changes ( Valtio)",
+    "Shadcn"
+  ]
+}

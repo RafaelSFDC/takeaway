@@ -5,7 +5,7 @@ export const burguers = [
     title: "Burger Dreams",
     paragraph:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    price: "$ 9.20",
+    price: 9.2,
   },
   {
     src: "/Burger-Waldo.png",
@@ -13,7 +13,7 @@ export const burguers = [
     title: "Burger Waldo",
     paragraph:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    price: "$ 10.00",
+    price: 10.0,
   },
   {
     src: "/Burger-Cali.png",
@@ -21,7 +21,7 @@ export const burguers = [
     title: "Burger Cali",
     paragraph:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    price: "$ 8.00",
+    price: 8.0,
   },
   {
     src: "/Burger-Spicy.png",
@@ -29,7 +29,7 @@ export const burguers = [
     title: "Burger Spicy",
     paragraph:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    price: "$ 9.20",
+    price: 9.0,
   },
   {
     src: "/Burger-Bacon-Buddy.png",
@@ -37,7 +37,7 @@ export const burguers = [
     title: "Burger Bacon Buddy",
     paragraph:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    price: "$ 9.99",
+    price: 9.89,
   },
   {
     src: "/Burger-Classic.png",
@@ -45,7 +45,7 @@ export const burguers = [
     title: "Burger Classic",
     paragraph:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    price: "$ 8.00",
+    price: 8.0,
   },
 ];
 
@@ -56,7 +56,7 @@ export const sides = [
     title: "Salad Ceaser",
     paragraph:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    price: "$ 6.00",
+    price: 6.0,
   },
   {
     src: "/Beans-Slow-Cooked.png",
@@ -64,7 +64,7 @@ export const sides = [
     title: "Beans Slow Cooked",
     paragraph:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    price: "$ 4.00",
+    price: 7.0,
   },
   {
     src: "/Fries-Cheese.png",
@@ -72,7 +72,7 @@ export const sides = [
     title: "Fries Cheese",
     paragraph:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    price: "$ 5.00",
+    price: 5.0,
   },
   {
     src: "/Fries-Rustic.png",
@@ -80,7 +80,7 @@ export const sides = [
     title: "Fries Rustic",
     paragraph:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    price: "$ 4.00",
+    price: 5.0,
   },
 ];
 
@@ -91,7 +91,7 @@ export const drinks = [
     title: "Drink Fig & Lime",
     paragraph:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    price: "$ 4.00",
+    price: 6.0,
   },
   {
     src: "/Drink-Liquor.png",
@@ -99,7 +99,7 @@ export const drinks = [
     title: "Drink Liquor",
     paragraph:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    price: "$ 7.00",
+    price: 7.0,
   },
   {
     src: "/Drink-Lime.png",
@@ -107,7 +107,7 @@ export const drinks = [
     title: "Drink Lime",
     paragraph:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    price: "$ 4.00",
+    price: 4.0,
   },
   {
     src: "/Drink-Cola.png",
@@ -115,6 +115,6 @@ export const drinks = [
     title: "Drink Cola",
     paragraph:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    price: "$ 3.00",
+    price: 3.0,
   },
 ];
